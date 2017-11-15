@@ -71,7 +71,6 @@ public class MainActivity extends AppCompatActivity {
             }
         }
     }
-    //;lkjhgfghjkl;';lk
 
     public void editProduct(int id, String product, String detail, int price) {
         ContentValues values = new ContentValues();
